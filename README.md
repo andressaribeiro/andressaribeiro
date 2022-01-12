@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Android, iOS, Flutter**
 
-- 📫 How to reach me **andressa.dsa2@gmail.com**
+- 📫 How to reach me **andressa.dsa2@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/albuquerqueandressa/)**
 
 - ⚡ Fun fact **I'm a flag football player, currently playing as wide receiver 🏈**
 
