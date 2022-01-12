@@ -1,4 +1,4 @@
-<h3 align="center">A passionate mobile developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Loopi](https://loopi.shop/)
 
