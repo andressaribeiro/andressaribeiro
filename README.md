@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Loopi](https://loopi.shop/)
+- 🔭 I’m currently working on [LoopiPay](https://loopipay.com//)
 
 - 🌱 I’m currently learning **Node.js, Typescript, Blockchain**
 
