@@ -1,8 +1,8 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [LoopiPay](https://loopipay.com//)
+- 🔭 I’m currently working on [Itaú](https://www.itau.com.br/)
 
-- 🌱 I’m currently learning **Node.js, Typescript, Blockchain**
+- 🌱 I’m currently learning **SwiftUI, Compose, Compose Multiplataform**
 
 - 💬 Ask me about **Android, iOS, Flutter**
 
